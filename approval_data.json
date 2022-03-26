@@ -1,0 +1,298 @@
+[
+	{
+		"date": "2021-08-06",
+		"company": "Datum",
+		"link":
+			"https://gestion.pe/peru/politica/datum-el-57-considera-incapaz-al-gabinete-y-el-51-pide-no-darle-voto-de-confianza-noticia/?ref=gesr",
+		"source": "Diario Gestión",
+		"approve": 39,
+		"disapprove": 41,
+		"marginError": 2.8,
+		"presidente": "Pedro Castillo Terrones"
+	},
+	{
+		"date": "2021-08-08",
+		"company": "CPI",
+		"link":
+			"https://canaln.pe/actualidad/encuesta-cpi-477-peruanos-desaprueba-gestion-presidente-pedro-castillo-n437946",
+		"source": "Canal N",
+		"approve": 40,
+		"disapprove": 47.7,
+		"marginError": 2.8,
+		"presidente": "Pedro Castillo Terrones"
+	},
+	{
+		"date": "2021-08-15",
+		"company": "Ipsos",
+		"link":
+			"https://www.ipsos.com/sites/default/files/ct/news/documents/2021-08/Informe%20Encuesta%20El%20Comercio%20Ipsos%20Agosto%202021%20%285%29.pdf",
+		"source": "Ipsos",
+		"approve": 38,
+		"disapprove": 45,
+		"marginError": 2.8,
+		"presidente": "Pedro Castillo Terrones"
+	},
+	{
+		"date": "2021-08-22",
+		"company": "IEP",
+		"link": "https://iep.org.pe/wp-content/uploads/2021/08/Informe-OP-Agosto-2021-completo.pdf",
+		"source": "Ipsos",
+		"approve": 38,
+		"disapprove": 46,
+		"marginError": 2.8,
+		"presidente": "Pedro Castillo Terrones"
+	},
+	{
+		"date": "2021-09-06",
+		"company": "CPI",
+		"link":
+			"https://cpi.pe/images/upload/paginaweb/archivo/23/ESTUDIO%20DE%20OPINI%C3%93N%20P%C3%9ABLICA%20setiembre%20RPP.pdf",
+		"source": "CPI",
+		"approve": 43.5,
+		"disapprove": 43.5,
+		"marginError": 2.9,
+		"presidente": "Pedro Castillo Terrones"
+	},
+	{
+		"date": "2021-09-11",
+		"company": "Datum",
+		"link":
+			"https://gestion.pe/peru/politica/el-58-de-peruanos-cree-que-castillo-no-esta-calificado-para-gobernar-noticia/",
+		"source": "Gestion",
+		"approve": 41,
+		"disapprove": 46,
+		"marginError": 2.8,
+		"presidente": "Pedro Castillo Terrones"
+	},
+	{
+		"date": "2021-09-13",
+		"company": "Ipsos",
+		"link":
+			"https://www.ipsos.com/sites/default/files/ct/news/documents/2021-09/Informe%20Encuesta%20El%20Comercio%20Ipsos%20Setiembre%202021%20%281%29%20%281%29.pdf",
+		"source": "El Comercio",
+		"approve": 42,
+		"disapprove": 46,
+		"marginError": 2.8,
+		"presidente": "Pedro Castillo Terrones"
+	},
+	{
+		"date": "2021-09-17",
+		"company": "Datum",
+		"link":
+			"https://gestion.pe/peru/politica/encuesta-datum-el-53-cree-que-el-gobierno-de-pedro-castillo-va-por-un-rumbo-equivocado-noticia/",
+		"source": "Gestion",
+		"approve": 42,
+		"disapprove": 46,
+		"marginError": 2.8,
+		"presidente": "Pedro Castillo Terrones"
+	},
+	{
+		"date": "2021-09-26",
+		"company": "IEP",
+		"link":
+			"https://larepublica.pe/politica/pedro-castillo/2021/09/26/pedro-castillo-sigue-con-mayor-respaldo-fuera-de-lima-metropolitana-encuesta-iep/",
+		"source": "La República",
+		"approve": 40,
+		"disapprove": 42,
+		"marginError": 2.8,
+		"presidente": "Pedro Castillo Terrones"
+	},
+	{
+		"date": "2021-10-17",
+		"company": "Ipsos",
+		"link":
+			"https://elcomercio.pe/politica/encuesta-el-comercio-ipsos-reactivar-la-economia-debe-ser-prioritario-en-el-gobierno-de-pedro-castillo-noticia/",
+		"source": "El Comercio",
+		"approve": 42,
+		"disapprove": 48,
+		"marginError": 2.8,
+		"presidente": "Pedro Castillo Terrones"
+	},
+	{
+		"date": "2021-10-21",
+		"company": "Datum",
+		"link":
+			"https://gestion.pe/peru/politica/datum-pedro-castillo-desaprobacion-a-castillo-sube-a-50-pese-a-cambios-en-el-gabinete-datum-noticia/",
+		"source": "Gestión",
+		"approve": 40,
+		"disapprove": 50,
+		"marginError": 2.8,
+		"presidente": "Pedro Castillo Terrones"
+	},
+	{
+		"date": "2021-10-26",
+		"company": "Datum",
+		"link":
+			"http://admin.datum.com.pe/datum/descarga/20211031190113.pdf",
+		"source": "Datum",
+		"approve": 40,
+		"disapprove": 50,
+		"marginError": 2.8,
+		"presidente": "Pedro Castillo Terrones"
+	},
+	{
+		"date": "2021-10-31",
+		"company": "IEP",
+		"link":
+			"https://iep.org.pe/wp-content/uploads/2021/10/Informe-OP-Octubre-2021-parte-I.pdf",
+		"source": "La República",
+		"approve": 35,
+		"disapprove": 48,
+		"marginError": 2.8,
+		"presidente": "Pedro Castillo Terrones"
+	},
+	{
+		"date": "2021-11-14",
+		"company": "Ipsos",
+		"link":
+			"https://elcomercio.pe/politica/gobierno/aprobacion-al-presidente-pedro-castillo-cae-siete-puntos-noticia/",
+		"source": "El Comercio",
+		"approve": 35,
+		"disapprove": 57,
+		"marginError": 2.8,
+		"presidente": "Pedro Castillo Terrones"
+	},
+	{
+		"date": "2021-11-28",
+		"company": "IEP",
+		"link":
+			"https://iep.org.pe/wp-content/uploads/2021/11/Informe-OP-Noviembre-2021-Informe-completo.pdf",
+		"source": "La República",
+		"approve": 25,
+		"disapprove": 65,
+		"marginError": 2.8,
+		"presidente": "Pedro Castillo Terrones"
+	},
+	{
+		"date": "2021-12-10",
+		"company": "Datum",
+		"link":
+			"http://admin.datum.com.pe/datum/descarga/20211208061343.pdf",
+		"source": "Perú 21",
+		"approve": 32,
+		"disapprove": 59,
+		"marginError": 2.8,
+		"presidente": "Pedro Castillo Terrones"
+	},
+	{
+		"date": "2021-12-12",
+		"company": "Ipsos",
+		"link":
+			"https://elcomercio.pe/politica/encuesta-el-comercio-ipsos-percepcion-de-retroceso-del-pais-es-la-mas-alta-desde-1991-pedro-castillo-presidencia-de-la-republica-mirtha-vasquez-pedro-francke-noticia/",
+		"source": "El Comercio",
+		"approve": 36,
+		"disapprove": 58,
+		"marginError": 2.8,
+		"presidente": "Pedro Castillo Terrones"
+	},
+	{
+		"date": "2021-12-12",
+		"company": "CPI",
+		"link":
+			"https://panamericana.pe/panorama/politica/338489-exclusivo-encuesta-cpi-62-1-desaprueba-gestion-presidente-pedro-castillo",
+		"source": "Panorama",
+		"approve": 25.8,
+		"disapprove": 62.1,
+		"marginError": 2.8,
+		"presidente": "Pedro Castillo Terrones"
+	},
+	{
+		"date": "2021-12-19",
+		"company": "IEP",
+		"link":
+			"https://data.larepublica.pe/encuesta-iep-aprobacion-desaprobacion-peru-presidente-congreso-de-la-republica/",
+		"source": "La República",
+		"approve": 28,
+		"disapprove": 60,
+		"marginError": 2.8,
+		"presidente": "Pedro Castillo Terrones"
+	},
+	{
+		"date": "2022-01-16",
+		"company": "Ipsos",
+		"link":
+			"https://elcomercio.pe/politica/gobierno/encuesta-el-comercio-ipsos-aprobacion-a-pedro-castillo-cae-infografia-gobierno-69-peru-libre-mirtha-vasquez-pedro-francke-maria-del-carmen-alva-investigaciones-noticia/?ref=ecr",
+		"source": "El Comercio",
+		"approve": 33,
+		"disapprove": 60,
+		"marginError": 2.8,
+		"presidente": "Pedro Castillo Terrones"
+	},
+	{
+		"date": "2022-01-30",
+		"company": "IEP",
+		"link":
+			"https://larepublica.pe/politica/2022/01/30/pedro-castillo-no-se-recupera-y-su-gobierno-cae-en-varios-sectores-segun-iep-encuesta/",
+		"source": "La República",
+		"approve": 28.9,
+		"disapprove": 61.5,
+		"marginError": 2.8,
+		"presidente": "Pedro Castillo Terrones"
+	},
+	{
+		"date": "2022-01-30",
+		"company": "CPI",
+		"link":
+			"https://cpi.pe/images/upload/paginaweb/archivo/23/OP_ENERO%202022.pdf",
+		"source": "Frecuencia Latina",
+		"approve": 23.4,
+		"disapprove": 66.9,
+		"marginError": 2.8,
+		"presidente": "Pedro Castillo Terrones"
+	},
+	{
+		"date": "2022-02-02",
+		"company": "Datum",
+		"link":
+			"https://peru21.pe/politica/desaprobacion-a-pedro-castillo-sube-5-puntos-y-llega-al-64-segun-datum-pedro-castillo-encuesta-noticia/",
+		"source": "Perú 21",
+		"approve": 29,
+		"disapprove": 64,
+		"marginError": 2.8,
+		"presidente": "Pedro Castillo Terrones"
+	},
+	{
+		"date": "2022-02-13",
+		"company": "Ipsos",
+		"link":
+			"https://elcomercio.pe/politica/pedro-castillo-aprobacion-del-presidente-cae-de-33-a-25-noticia/",
+		"source": "El Comercio",
+		"approve": 25,
+		"disapprove": 69,
+		"marginError": 2.8,
+		"presidente": "Pedro Castillo Terrones"
+	},
+	{
+		"date": "2022-02-27",
+		"company": "IEP",
+		"link":
+			"https://larepublica.pe/politica/2022/02/27/pedro-castillo-encuesta-iep-casi-la-mitad-del-pais-cree-mas-conveniente-que-se-vayan-todos-congreso/",
+		"source": "La República",
+		"approve": 28,
+		"disapprove": 63,
+		"marginError": 2.8,
+		"presidente": "Pedro Castillo Terrones"
+	},
+	{
+		"date": "2022-03-04",
+		"company": "Datum",
+		"link":
+			"https://canaln.pe/actualidad/pedro-castillo-aprobacion-presidente-cayo-25-marzo-segun-encuesta-datum-n443292",
+		"source": "Canal N",
+		"approve": 25,
+		"disapprove": 67,
+		"marginError": 2.8,
+		"presidente": "Pedro Castillo Terrones"
+	},
+	{
+		"date": "2022-03-10",
+		"company": "Ipsos",
+		"link":
+			"https://elcomercio.pe/politica/encuesta-ipsos-peru-pedro-castillo-mantiene-baja-aprobacion-la-evolucion-de-cifras-hasta-marzo-noticia/",
+		"source": "El Comercio",
+		"approve": 26,
+		"disapprove": 66,
+		"marginError": 2.8,
+		"presidente": "Pedro Castillo Terrones"
+	}
+]
