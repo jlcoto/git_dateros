@@ -294,5 +294,16 @@
 		"disapprove": 66,
 		"marginError": 2.8,
 		"presidente": "Pedro Castillo Terrones"
+	},
+	{
+		"date": "2022-03-26",
+		"company": "Nueva Encuesta",
+		"link":
+			"link.com",
+		"source": "El Diario",
+		"approve": 16,
+		"disapprove": 68,
+		"marginError": 2.8,
+		"presidente": "Pedro Castillo Terrones"
 	}
 ]
